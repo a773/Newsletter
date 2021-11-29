@@ -1,0 +1,65 @@
+body {
+    margin: 0 auto;
+    background-color: #585858;
+}
+
+table {
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.cabezera {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: RoadTest;
+}
+
+.titulo1 {
+    font-family: calibri;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+}
+
+.texto1 {
+    font-family: calibri;
+    background-color: white;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.antes-del-boton {
+    background-color: rgb(255, 255, 255);
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.boton {
+    background-color: white;
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: RoadTest;
+    text-align: center;
+}
+
